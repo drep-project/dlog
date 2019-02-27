@@ -1,4 +1,4 @@
-package log
+package dlog
 
 import (
 	"github.com/drep-project/drep-chain/common/fileutil"

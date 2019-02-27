@@ -14,7 +14,7 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with the drep-cli library. If not, see <http://www.gnu.org/licenses/>.
 
-package log
+package dlog
 
 import (
 	"errors"
