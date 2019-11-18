@@ -1,7 +1,7 @@
 package dlog
 
 import (
-	"github.com/drep-project/drep-chain/common/fileutil"
+	"github.com/drep-project/DREP-Chain/common/fileutil"
 	"github.com/mattn/go-colorable"
 	"github.com/mattn/go-isatty"
 	"io"
